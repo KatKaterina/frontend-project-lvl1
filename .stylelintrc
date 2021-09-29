@@ -13,5 +13,6 @@
     "plugin/rational-order": [true, {
       "border-in-box-model": true,
       "empty-line-between-groups": true
+    }]
   }
-
+}
