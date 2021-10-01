@@ -7,3 +7,7 @@
 To run the game: _brain-even_
 
 [![asciicast](https://asciinema.org/a/439318.svg)](https://asciinema.org/a/439318)
+
+To run the game: _brain-calc_
+
+[![asciicast](https://asciinema.org/a/439350.svg)](https://asciinema.org/a/439350)
