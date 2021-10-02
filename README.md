@@ -15,3 +15,11 @@ To run the game: _brain-calc_
 To run the game: _brain-gcd_
 
 [![asciicast](https://asciinema.org/a/439508.svg)](https://asciinema.org/a/439508)
+
+To run the game: _brain-progression_
+
+[![asciicast](https://asciinema.org/a/439514.svg)](https://asciinema.org/a/439514)
+
+To run the game: _brain-prime_
+
+[![asciicast](https://asciinema.org/a/439517.svg)](https://asciinema.org/a/439517)
