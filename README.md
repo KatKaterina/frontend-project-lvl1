@@ -11,3 +11,7 @@ To run the game: _brain-even_
 To run the game: _brain-calc_
 
 [![asciicast](https://asciinema.org/a/439350.svg)](https://asciinema.org/a/439350)
+
+To run the game: _brain-gcd_
+
+[![asciicast](https://asciinema.org/a/439508.svg)](https://asciinema.org/a/439508)
