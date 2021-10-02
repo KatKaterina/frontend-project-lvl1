@@ -7,9 +7,13 @@
 Mind Games is a set of five console games built on the principle of popular mobile applications for brain pumping. In each game, questions are asked that must be answered correctly. After three correct answers, it is considered that the game is over. Incorrect answers end the game and offer to go through it again. Games:
 
 <a href="#brain-even">Definition of an even number.</a>
+
 <a href="#brain-calc">Calculator. Arithmetic expressions that need to be calculated.</a>
+
 <a href="#brain-gcd">Determination of the greatest common divisor.</a>
+
 <a href="#brain-progression">Progression. Find the missing numbers in the sequence of numbers.</a>
+
 <a href="#brain-prime">Definition of a prime number.</a>
 
 <div id="brain-even">
