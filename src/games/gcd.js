@@ -1,6 +1,5 @@
 import playGame from '../index.js';
-
-const getRandomNumber = () => Math.floor(Math.random() * 100);
+import getRandomNumber from '../common.js';
 
 const gameRule = 'Find the greatest common divisor of given numbers.';
 

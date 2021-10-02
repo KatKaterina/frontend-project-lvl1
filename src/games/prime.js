@@ -1,6 +1,5 @@
 import playGame from '../index.js';
-
-const getRandomNumber = () => Math.floor(Math.random() * 100);
+import getRandomNumber from '../common.js';
 
 const gameRule = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
