@@ -16,6 +16,8 @@ Mind Games is a set of five console games built on the principle of popular mobi
 
 <a href="#brain-prime">Definition of a prime number.</a>
 
+The main technologies used: JS/Node.js
+
 <div id="brain-even">
     <h2>Definition of an even number</h2>
 </div>
